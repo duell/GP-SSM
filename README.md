@@ -20,7 +20,7 @@ In particular, this toolbox implements the algorithms of the two following paper
 [1] R. Frigola, F. Lindsten, T. B. Schön and C. E. Rasmussen. Bayesian Inference and Learning in Gaussian Process State-Space Models with Particle MCMC, in Neural Information Processing Systems (NIPS), 2013.
 http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/1449.pdf
 
-[2] R. Frigola, F. Lindsten, T. B. Schön and C. E. Rasmussen. Identification of Gaussian Process State-Space Models with Particle Stochastic Approximation EM, 2013, submitted.
+[2] R. Frigola, F. Lindsten, T. B. Schön and C. E. Rasmussen. Identification of Gaussian Process State-Space Models with Particle Stochastic Approximation EM, 2013, submitted. http://arxiv.org/pdf/1312.4852
 
 
 First Steps
